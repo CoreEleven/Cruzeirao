@@ -7,6 +7,8 @@ import javax.faces.bean.SessionScoped;
 
 import modelo.Usuario;
 
+/*teste*/
+
 @ManagedBean
 @SessionScoped
 public class UsuarioMB {
